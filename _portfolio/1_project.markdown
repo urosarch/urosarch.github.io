@@ -10,7 +10,7 @@ The story of Gaia begins with the formation of organic matter or primitive life 
 
 
 <div class="img_row">
-	<% include image.html  image="projects/proj-1/1.jpg" %>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
