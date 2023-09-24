@@ -12,7 +12,7 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 	<img class="col three" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Abstraction of the model showing Earth’s and Mars’ Third Skin
+	This image can also have a caption. It's like magic. 
 </div>
 
 Text
@@ -21,50 +21,52 @@ Text
 	<img class="col three" src="{{ site.baseurl }}/img/2-2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Approximation of the World Network of Satellites 
+	This image can also have a caption. It's like magic. 
 </div>
 
-
+Text
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/3-1.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Abstraction of the model of Earth’s Third Skin and Iterations of the Physical Model
+	This image can also have a caption. It's like magic. 
 </div>
 
-
+Text
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Excerpt from the animation displaying the exchange of data between Earth and Mars, co-author: Milica Petrinjak
+	This image can also have a caption. It's like magic. 
 </div>
 
-
+Text
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/2-1.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Diagramatic representation of an ecological blockchain-based token EcoStakeN
+	This image can also have a caption. It's like magic. 
 </div>
 
-
+Text
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/4.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Diagram of the satellite systems monitoring the Earth and Transferring Data
+	This image can also have a caption. It's like magic. 
 </div>
 
-
+Text
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Third Skin platform interface that enables immersive experiences into the Earth’s and Mars’ ecosystems
+	This image can also have a caption. It's like magic. 
 </div>
+
+Text
