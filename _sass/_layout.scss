@@ -241,26 +241,23 @@ display: block;
 /** 
  * Portfolio pages **********************************************************
 */
-.blankbox{
-background: $theme-color;
+.blankbox {
+    background: $theme-color;
 }
-.img_row{
-height: $img_height;
-width: 100%;
-overflow: hidden;
-box-sizing:border-box;
-padding: $img_spacing;
+.img_row {
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: $img_spacing;
 }
-.col{ 
-width: auto; /* Allow the width to adjust based on the image's aspect ratio */
-    max-height: $img_height; /* Set the maximum height for the image */
+.col {
     box-sizing: border-box;
     padding: $img_spacing;
     display: block; /* Ensure the image is a block-level element */
     margin: 0 auto; /* Center the image horizontally if necessary */
 }
-.right{
-float: right;
+.right {
+    float: right;
 }
 .one {
 width:33.33%;
@@ -278,6 +275,7 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+/* If you want to center the images vertically within .img_row, you can use flexbox: */
 .img_row {
     display: flex;
     justify-content: center; /* Center horizontally */
