@@ -2,7 +2,7 @@
 layout: post
 title: Productive Landscapes
 description: TU Berlin
-img: /img/6-0.jpg
+img: /img/6-4.jpg
 ---
 
 Co-author: Julia Dorn
