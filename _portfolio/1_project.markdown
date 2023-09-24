@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Third skin
+description: Master 
 img: /img/12.jpg
 ---
 
