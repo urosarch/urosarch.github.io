@@ -1,55 +1,75 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+title: Productive Landscapes
+description: TU 
+img: /img/6-0.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Co-author: Julia Dorn
+Mentor: Undine Giseke
+Location: Berlin-Brandenburg
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+The project investigates different intersections of operational, productive and protective landscapes. Productive and operational landscapes are defined as those which have the function of economic production, in this case mainly agricultural landscapes, whereas protective landscapes are defined as natural or semi-natural systems that regulate and influence vital processes within the ecosystem. In the process of understanding and analysing these landscapes and their synergies we started developing an intellectual framework for taking the perspective of Critical Zones and Symbiotic Earth. Here we understand the Critical Zone both as a physical layer of the Earth, where chemical reactions make all life manifest, but also as a socio-political construct which aims to mediate between different actors and instigate new relations towards the life-sustaining envelope. The concept of Symbiotic Earth moves away from the notions of Darwinian theories towards an understanding of mutual connectedness between life forms and non-organic matter. We use the concept of a holobiont, the symbiotic unit of mutually supportive organisms as a starting point in deriving principles of synergies that can be detected and established between different types of landscapes and systems in order to conceive them as a whole and cope with their complexities.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+Visit: https://bb2040.de/wp/project/productive-landscapes
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/6-0.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Diagram of Theoretical Aspects Applied to Pausin area Landscape
+</div>
+
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/6-1.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	Swamp Land recreated as a Carbon Sink 
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/6-2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Transformation of Pausin Area near Berlin 
 </div>
 
 
-<br/><br/><br/>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/6-3.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Transformation processes of forests and peat soil
+</div>
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/6-4.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Diagram of Deep Time Carbon Cycles and Carbon Sinks
+</div>
+
+
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/6-5.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Transformation of the Landscape by Reforestation and the establishment of Peats
+</div>
+
+
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/6-6.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Monitoring Systems of Satellites and Sensors
+</div>
