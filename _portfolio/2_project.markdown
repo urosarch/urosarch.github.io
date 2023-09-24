@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Productive Landscapes
-description: TU 
+description: TU Berlin
 img: /img/6-0.jpg
 ---
 
