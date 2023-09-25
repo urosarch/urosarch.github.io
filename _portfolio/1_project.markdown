@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Touching the Third Skin
-description: Master Thesis
+description: Master Thesis Urban Design
 img: /img/2.jpg
 ---
 
