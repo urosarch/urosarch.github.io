@@ -1,55 +1,84 @@
 ---
 layout: post
-title: Project
-description: a project with no image
-img: 
+title: Local Energy Cooperatives (LECOO)
+description: TU Berlin
+img: /img/6-4.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Co-authors: Elena Tabakova, Yasaman Momenzadeh
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Location: Berlin-Brandenburg
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
+The development of the digital platform that enables users to calculate which type of decentralized sustainable energy is the most viable solution for their neighbourhood is devised with the usage of thorough research, software such as Rhino, Grasshopper and Figma, a platform for the simulation of user experience. We have chosen Tegel airport area and its surrounding for a case study where we tested this analysis and simulated user experience through the platform. LECOO is a technical tool and a platform that aims to aid people in determining best ways to develop decentralized energy grids.
+
+Visit: https://www.youtube.com/watch?v=WqWvd2Tx668&ab_channel=ElenaTabakova
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-0.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Interface of the platform displaying options for the user
+</div>
+
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/10-2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/10-3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	 
 </div>
 
 
-<br/><br/><br/>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-4.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	
+</div>
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-5.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Different Modes for Energy Production
+</div>
+
+
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-6.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Complex Blockchain System regulating the exchange of Energy between Communities
+</div>
+
+
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-7.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Structure of a Blockchain Unit
+</div>
+
+
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/10-8.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Data Center used for Processing Blockchain System and as a Source of Heat Energy
+</div>
