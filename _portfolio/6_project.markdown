@@ -2,7 +2,7 @@
 layout: post
 title: Local Energy Cooperatives (LECOO)
 description: TU Berlin
-img: /img/6-4.jpg
+img: /img/10-0.jpg
 ---
 
 Co-authors: Elena Tabakova, Yasaman Momenzadeh
