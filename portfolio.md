@@ -24,12 +24,12 @@ permalink: /portfolio/
     </div>
 </div>
 {% else %}
-{% assign projectClass = forloop.index | modulo: 9 %}
-<div class="project-{{ projectClass }}">
-    <div class="thumbnail-{{ projectClass }}">
+
+<div class="project ">
+    <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="thumbnail-{{ projectClass }}" src="{{ project.img }}"/>
+        <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -41,6 +41,7 @@ permalink: /portfolio/
         </a>
     </div>
 </div>
+
 {% endif %}
 
 {% endfor %}
